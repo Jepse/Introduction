@@ -5,4 +5,6 @@
 
 :speech_ballon: Currently learning C++/Lua/XML 
 
-Cheers :canada: 
+:e-mail: Jepse@live.ca
+
+Cheers  
