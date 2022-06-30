@@ -1,9 +1,9 @@
 
-:wave: Hi, i am Jepse, FrontEnd Dev (HTML/JS)
+:wave: Hi, i am Jepse, FrontEnd Dev(JS)
 
-:heart: TrinityCore and Github got me into BackEnd
+:heart: Github got me into BackEnd Dev
 
-:speech_balloon: Currently learning C++/Lua/XML 
+:speech_balloon: Currently working on Blender scenes and GLTF Loader scripts 
 
 :e-mail: Jepse@live.ca
 
