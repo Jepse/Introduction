@@ -3,7 +3,7 @@
 
 :heart: Github got me into BackEnd Dev
 
-:speech_balloon: Currently working on Blender scenes and GLTF Loader scripts 
+:speech_balloon: Currently learning Blender & working on WebGPU dev
 
 :e-mail: Jepse@live.ca
 
