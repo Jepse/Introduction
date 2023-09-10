@@ -3,7 +3,7 @@
 
 :heart: Github got me into BackEnd Dev
 
-:speech_balloon: Currently learning Networking and Network Security Protocols
+:speech_balloon: Currently learning Python
 
 :e-mail: Jepse@live.ca
 
