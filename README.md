@@ -1,10 +1,10 @@
 
-:wave: Hi, i am Jepse, FrontEnd Dev
+:wave: Hi, i am Jepse, full stack dev
 
-:heart: Github got me into BackEnd Dev
+:heart: Startup @ SaglabsAi
 
-:speech_balloon: Currently learning Python
+:speech_balloon: Developing "Employai"
 
-:e-mail: Jepse@live.ca
+:e-mail: Jepsestream@gmail.com
 
 Cheers  
