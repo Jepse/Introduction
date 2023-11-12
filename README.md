@@ -1,9 +1,9 @@
 
-:wave: Hi, i am Jepse, full stack dev
+:wave: Hi, i am Jepse
 
-:heart: Startup @ SaglabsAi
+:heart: Learning
 
-:speech_balloon: Developing "Employai"
+:speech_balloon: Freelance Graphic Design, Full Stack Development and consultant
 
 :e-mail: Jepsestream@gmail.com
 
