@@ -3,7 +3,7 @@
 
 :heart: Learning
 
-:speech_balloon: Freelance Graphic Design, Full Stack Development and consultant
+:speech_balloon: Freelance Graphic Design, Full Stack Development and Consultant
 
 :e-mail: Jepsestream@gmail.com
 
